@@ -13,7 +13,13 @@ Creating Personas Based on previous user data or a given user scenario. Create a
 ## Output:
 <img width="674" height="661" alt="Screenshot 2025-11-03 152309" src="https://github.com/user-attachments/assets/3f3a39af-cee2-49a6-a371-f7b3bcbf424c" />
 
+![WhatsApp Image 2025-11-18 at 8 48 56 AM](https://github.com/user-attachments/assets/f798084e-410f-43bb-80bd-7a2c64dfeabc)
+
+
 <img width="705" height="646" alt="Screenshot 2025-11-03 152323" src="https://github.com/user-attachments/assets/4ec3b035-8bbf-4d9a-a184-644320ad1a74" />
+
+![images](https://github.com/user-attachments/assets/19c74fa9-ffdc-4ecd-8b01-bce77d13ef32)
+
 
 
 ## Result:
